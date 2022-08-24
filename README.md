@@ -1,4 +1,4 @@
-# 2021SP-21425-CIS4375-Database Management
+# 2021SP-21425-CIS3365-Database Management
 ### Instructor: Xuqing Wu
 ### Team members: Tuba Fatima, Cristian Dao, Kevin Nguyen, Manuel Sanchez Barrientos, Quang Nguyen, Luis Martinez, Charles Nguyen, Alan Nguyen
 
